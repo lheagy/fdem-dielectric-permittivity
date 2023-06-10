@@ -1,5 +1,6 @@
 # fdem-dielectric-permittivity
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lheagy/fdem-dielectric-permittivity/HEAD)
+
 Simulations with SimPEG that use dielectric permittivity 
 
 ## running the notebook 
