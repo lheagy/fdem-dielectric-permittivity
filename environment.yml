@@ -1,0 +1,16 @@
+name: heagy-2021-tle-casing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - discretize
+  - geoana
+  - jupyter
+  - matplotlib
+  - mkl
+  - numpy
+  - pymatsolver
+  - python=3.10
+  - scipy
+  - pip:
+    - git+https://github.com/simpeg/simpeg.git@fdem-permittivity
