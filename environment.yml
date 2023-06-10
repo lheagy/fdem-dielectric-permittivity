@@ -1,4 +1,4 @@
-name: heagy-2021-tle-casing
+name: fdem-dielectric-permittivity
 channels:
   - conda-forge
   - defaults
