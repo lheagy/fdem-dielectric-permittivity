@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - mkl
   - numpy
+  - pydiso
   - pymatsolver
   - python=3.10
   - scipy
